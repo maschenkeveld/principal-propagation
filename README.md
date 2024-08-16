@@ -1,1 +1,1 @@
-# Kong plugin Principal Propagaion
+# Kong plugin Principal Propagation
